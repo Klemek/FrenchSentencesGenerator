@@ -31,15 +31,15 @@ You can use this project as a maven dependency with this :
 <repositories>
 ...
 	<repository>
-	    <id>klemek.french-sentences-gen</id>
-	    <url>https://github.com/klemek/frenchsentencesgenerator/raw/mvn-repo</url>
-	</repository>
+         <id>fr.klemek</id>
+         <url>https://github.com/klemek/mvn-repo/raw/master</url>
+     </repository>
 </repositories>
 ...
 <dependencies>
 ...
 	<dependency>
-		<groupId>klemek</groupId>
+		<groupId>fr.klemek</groupId>
 		<artifactId>french-sentences-gen</artifactId>
 		<version>1.0</version>
 	</dependency>
