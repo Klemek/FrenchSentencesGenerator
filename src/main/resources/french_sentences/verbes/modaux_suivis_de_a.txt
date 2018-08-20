@@ -1,0 +1,51 @@
+avoir{peine}
+avoir{plaisir}
+prendre#13{un malin plaisir}
+hésiter#1
+penser#1
+tenir#8
+jouer#1
+veiller#1
+commencer#9
+réussir#2
+échouer#1
+tendre#4
+continuer#1
+aspirer#1
+parvenir#8
+consentir#3
+renoncer#9
+arriver#1
+songer#10
+chercher#1
+peiner#1
+œuvrer#1
+participer#1
+contribuer#1
+persister#1
+viser#1
+apprendre#13
+se décider#1
+se limiter#1
+s'attendre#4
+se refuser#1
+servir#19
+se résoudre
+s'ennuyer#15
+se remettre#14
+se borner#1
+s'obstiner#1
+s'acharner#1
+se mettre#14
+renâcler#1
+se préparer#1
+s'entrainer#1
+s'amuser#1
+tarder#1
+s'habituer#1
+s'appliquer#1
+s'exercer#9
+se forcer#9
+travailler#1
+s'essayer#15
+s'autoriser#1

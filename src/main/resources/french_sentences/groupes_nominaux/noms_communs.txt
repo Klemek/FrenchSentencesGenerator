@@ -1,0 +1,702 @@
+femme_F
+homme_H
+humain_H
+personne_F
+inconnu%e
+garçon_H
+fille_F
+fou%folle
+assassin_H
+médecin_H
+plombier_H
+ministre_N
+spectateur%spectatrice
+visiteur_H
+français²%française
+célébrité_F
+intrus²_H
+chercheur%chercheuse
+enseignant%e
+rebelle_N
+musicien%musicienne
+poète_H
+soldat_H
+artiste_N
+flic_H
+touriste_N
+crapule_F
+esprit_H
+âme_F
+enfant_H
+citoyen%citoyenne
+fumeur%fumeuse
+mec%nana
+allemand%e
+italien%italienne
+belge_N
+américain%e
+russe_N
+facteur_H
+infirmier%infirmière
+salarié%e
+mère²s de famille_F
+traitre_H
+spécialiste_N
+joueur%joueuse
+pianiste_N
+guitariste_N
+saxophoniste_N
+journaliste_N
+remplaçant%e
+évèque_H
+délégué²s du personnel%déléguée²s du personnel
+stagiaire_N
+candidat%e
+majordome%soubrette
+responsable_N
+adolescent%e
+bébé_H
+bonze_H
+berger%bergère
+propriétaire_N
+locataire_N
+commerçant%e
+aristocrate_N
+victime_F
+blessé²s de guerre_H
+orphelin%e
+passager_H
+électeur%électrice
+usager²s des transports en commun_H
+chef²s d'orchestre_H
+prisonnier²s politique²s%prisonnière²s politique²s
+informaticien_H
+prédateur_H
+membre²s du parti
+acteur%actrice
+individu²s armé²s_H
+participant%e
+handicapé%e
+sportif%sportive
+chômeur%chômeuse
+toxicomane_N
+habitant%e
+pirate_H
+collaborateur%collaboratrice
+marchand²s d'esclaves_H
+philatéliste_N
+esclave_N
+client%e
+automobiliste_N
+collectionneur%collectionneuse
+invité%e
+interlocuteur%interlocutrice
+pompier_H
+ouvrier%ouvrière
+secrétaire_F
+hôtesse²s de l'air_F
+danseur%danseuse
+élève_N
+criminel²s de guerre_H
+spéculateur%spéculatrice
+diplomate_H
+alcoolique_H
+organisateur%organisatrice
+plaisantin_H
+tricheur%tricheuse
+fraudeur%fraudeuse
+menteur%menteuse
+prêtre%prêtresse
+moine²s franciscain²s%nonne
+moine%bonne²s sœur²s
+moine²s shaolin_H
+éleveur²s de porcs_H
+propriétaire²s de casino²s_H
+pilote²s de ligne_H
+pilier²s de bar_H
+peintre²s en bâtiment_H
+humoriste_N
+arabe_N
+sénégalais²%sénégalaise
+malade_N
+chinois²%chinoise
+japonais²%japonaise
+indien%indienne
+indigène_N
+scientifique_N
+éboueur_H
+chasseur_H
+écologiste_N
+boucher_H
+architecte_N
+banquier%banquière
+clochard%e
+punk_N
+gitan%e
+coiffeur%coiffeuse
+écrivain_H
+terroriste_H
+martyr%e
+acrobate²s de cirque_N
+psychologue²s du travail_N
+psychopathe_N
+saint%e
+£éros²%héroïne
+champion²s de tir%championne²s de tir
+spéléologue_N
+célibataire_N
+anorexique_N
+cascadeur%cascadeuse
+patron_H
+consultant%e
+philosophe_N
+universitaire_H
+académicien%académicienne
+étudiant%e
+lycéen%lycéenne
+collégien%collégienne
+mercenaire_H
+vigile²s de supermarché²s_H
+comptable_H
+non-fumeur%non-fumeuse
+descendant²s des incas%descendante²s des incas
+mendiant%e
+brute_F
+entité_F
+association_F
+société_F
+entreprise_F
+organisme%organisation
+groupe_H
+artisan_H
+voleur%voleuse
+mutant%e
+garde²s du corps_H
+chrétien%chrétienne
+musulman%e
+juif%juive
+protestant%e
+bouddhiste_N
+athée_N
+vieillard_H
+multi-récidiviste_N
+choriste_N
+voyageur%voyageuse
+vagabond_H
+imposteur_H
+clandestin_H
+brigand_H
+voyou_H
+député%e
+maire_H
+sénateur%sénatrice
+émigrant%e
+paysan%paysanne
+fantôme_H
+concurrent%e
+arbitre_H
+conspirateur%conspiratrice
+énergumène_H
+laveur²s de carreaux_H
+monstre_H
+inspecteur%inspectrice
+parisien%parisienne
+émir_H
+fonctionnaire_H
+officier²s supérieur²s_H
+sous-fifre_H
+zouave_H
+bougre%bougresse
+païen%païenne
+sauvage_N
+prostituée_F
+funambule_H
+amateur%amatrice
+maître%maîtresse
+professionnel%professionnelle
+bénévole_H
+donateur%donatrice
+capitaine_H
+cavalier%cavalière
+créature_F
+notaire_H
+adulte_H
+ancêtre_H
+internaute_N
+herboriste_N
+£ussard_H
+astrophysicien_H
+joueur²s de ping-pong%joueuse²s de ping-pong
+clarinettiste_N
+joueur²s de poker%joueuse²s de poker
+joueur²s d'accordéon%joueuse²s d'accordéon
+croupier%croupière
+concierge_N
+kamikaze_H
+cycliste_N
+pensionnaire_N
+millionnaire_N
+milliardaire_N
+femme²s de ménage_F
+poissonnier%poissonnière
+fleuriste_N
+critique²s de films_N
+photographe_N
+justicier%justicière
+gamin%e
+vétéran_H
+promeneur%promeneuse
+autochtone_N
+espion%espionne
+agent_H
+être_H
+motard_H
+dissident%e
+gardien²s de phare_H
+végétarien%végétarienne
+athlète²s de £aut niveau_N
+charlatan_H
+voleur²s de poules_H
+animateur²s de colonie²s de vacances%animatrice²s de colonie²s de vacances
+animateur²s de centre²s aéré²s%animatrice²s de centre²s aéré²s
+illuminé%e
+anarchiste_N
+communiste_N
+serbe_N
+archéologue_N
+puériculteur%puéricultrice
+jongleur%jongleuse
+clown_H
+colporteur_H
+pollueur%pollueuse
+instituteur%institutrice
+cow-boy_H
+rigolo_H
+emmerdeur%emmerdeuse
+pigeon_H
+filou_H
+délinquant%e
+vampire_H
+cobaye_H
+colonel_H
+salaud_H
+ordure_F
+proxénète%vamp
+mannequin_H
+déménageur_H
+scout_H
+courtier_H
+assureur_H
+gladiateur_H
+fantassin_H
+piéton_H
+haltérophile_H
+figurant%e
+pignouf_H
+connasse_F
+idole_F
+masseur-kinésithérapeute²²masseurs-kinésithérapeutes_H
+salopard_H
+troll_H
+intelligence²s artificielle²s_F
+blaireau²x_H
+pilote²s de rallye_H
+lanceur²s de couteaux_H
+saltimbanque_H
+bricoleur²s du dimanche_H
+chanteur²s de salle de bain_H
+arnaqueur%arnaqueuse
+anachorète_H
+polytechnicien%polytechnicienne
+énarque_N
+laquais²_H
+malandrin_H
+violoncelliste_N
+pacifiste_N
+belligérant%e
+imitateur%imitatrice
+schoïnopenxatophile_H
+tordu%e
+oto-rhino-laryngologiste_N
+déglingué_H
+extra-terrestre_H
+horloger%horlogère
+pâtissier%pâtissière
+birman%e
+pharaon_H
+nymphe_F
+apatride_N
+maître-saucier_H
+auteur²s de science-fiction_H
+travesti_H
+greffier%greffière
+braqueur²s de banques_H
+moniteur²s de parapente%monitrice²s de parapente
+moniteur²s d'auto-école%monitrice²s d'auto-école
+professeur²s de français_H
+professeur²s d'éducation physique_H
+professeur²s d'anglais_H
+fiscaliste_H
+croque-mort_H
+policier_H
+gendarme_H
+douanier%douanière
+ostéopathe_N
+cancérologue_N
+percussionniste_N
+audio-prothésiste_N
+dessinateur%dessinatrice
+illustrateur%illustratrice
+contribuable_H
+collègue_N
+collègue²s de bureau_H
+patient%e
+brancardier_H
+anesthésiste_N
+cadre²s supérieur²s_H
+andouille_F
+iconoclaste_N
+crétin_H
+gréviste_H
+combattant%e
+histrion_H
+mathématicien%mathématicienne
+gigolo_H
+galopin_H
+trafiquant²s d'armes_H
+plongeur%plongeuse
+ivrogne_H
+politicien%politicienne
+sumo_H
+flutiste_N
+motocycliste_N
+technocrate_H
+socialiste_N
+réfugié%e
+magicien%magicienne
+sorcier%sorcière
+rénégat_H
+hérétique_N
+tatoueur%tatoueuse
+noctambule_N
+bureaucrate_N
+hurluberlu%e
+bourgeois²%bourgeoise
+derviche_H
+névropathe_N
+sociopathe_N
+maraudeur_H
+œnologue_N
+félon_H
+australopithèque_H
+pithécanthrope_H
+singe_H
+charcutier_H
+ramasseur²s de balles%ramasseuse²s de balles
+sculpteur_H
+cyclomotoriste_N
+usager%usagère
+fillette_F
+amant%e
+ténor%diva
+numismate_H
+jardinier%jardinière
+botaniste_N
+agent²s d'assurances_H
+copain%copine
+pote_H
+avocat%e
+huissier²s de justice_H
+procureur_H
+trafiquant²s de cocaïne_H
+chauffeur²s de salle_H
+chauffeur²s routier²s_H
+pasteur_H
+diacre_H
+apôtre_H
+donneur²s d'organes%donneuse²s d'organes
+portugais²%portugaise
+manifestant%e
+comique²s troupier²s_H
+ingénieur_H
+trapéziste_N
+charpentier_H
+bandit_H
+nourrice_F
+graphiste_N
+ambulancier%ambulancière
+faussaire_N
+maître d'hôtel_H
+serveur%serveuse
+particulier_H
+magouilleur_H
+cinéphile_N
+herbivore_N
+anthropophage_N
+£ongrois²%£ongroise
+québecois²%québecoise
+marchand²s de tapis%marchande²s de tapis
+laborantin%e
+protagoniste_N
+zombie_H
+fabuliste_H
+écuyer%écuyère
+cocher_H
+entraîneur%entraîneuse
+illusionniste_N
+professeur²s de ¥oga_H
+souffleur²s de verre_H
+caissier%caissière
+gredin_H
+bouilleur²s de cru_H
+esthète_N
+gastro-entérologue_N
+tzigane_N
+fumiste_N
+grossiste_H
+sidérurgiste_H
+hypocrite_N
+juge_N
+juré%e
+juge²s d'instruction_N
+juge²s de touche_H
+chocolatier_H
+bûcheron_H
+acteur²s de films pornographiques%actrice²s de films pornographiques
+taliban_H
+herméneute_H
+exégète_H
+explorateur%exploratrice
+philologue_N
+sociologue_N
+prétendant%e
+courtisan%e
+baron%baronne
+duc%duchesse
+gouverneur_H
+encyclopédiste_H
+entomologiste_H
+agitateur%agitatrice
+paléontologue_H
+agent²s immobilier²s_H
+agent²s de police_H
+agent²s secret²s_H
+agent²s double²s_H
+primate_H
+anthropopithèque_H
+flamand%e
+gymnaste_N
+aide-soignant%e
+doxographe_N
+pleurnichard_H
+binoclard%e
+formateur%formatrice
+druide%druidesse
+allumeur²s de réverbères_H
+manipulateur%manipulatrice
+palefrenier_H
+imbécile_N
+feignant%e
+prestidigitateur%cartomancienne
+dilettante_H
+stoïcien%stoïcienne
+épicurien%épicurienne
+taoïste_N
+taulard%e
+troubadour_H
+ménestrel_H
+assesseur_H
+assistant%e
+manutentionnaire_H
+golfeur%golfeuse
+cruciverbiste_N
+lyonnais²%lyonnaise
+marseillais²%marseillaise
+nancéien%nancéienne
+éditorialiste_N
+magistrat%e
+malfrat_H
+gueux²%gueuse
+serf_H
+suzerain_H
+féal²²féaux%féale
+fakir_H
+personnage_H
+personnalité_F
+membre²s du personnel_H
+cyclope_H
+compagnon%compagne
+plaignant%e
+robot_H
+chasseur²s alpin²s_H
+glandeur%glandeuse
+moussaillon_H
+maquettiste_N
+copilote_N
+ostréiculteur%ostréicultrice
+taxidermiste_N
+opérateur%opératrice
+frimeur%frimeuse
+goinfre_N
+pitre_H
+passant%e
+vigneron_H
+testeur²s de jeux vidéo_H
+apprenti_H
+directeur²s de cabinet%directrice²s de cabinet
+directeur%directrice
+recteur_H
+£iérarque_H
+gérant%e
+préfet_H
+sous-préfet_H
+larbin_H
+pantin_H
+caïd_H
+voyeur%voyeuse
+séducteur%séductrice
+obsédé%nymphomane
+guignol_H
+casseur_H
+vandale_H
+démineur_H
+sténodactylographe_F
+pigiste_N
+samouraï%geisha
+£iérarque_H
+gérontologue_N
+margoulin_H
+ferrailleur_H
+occultiste_N
+virtuose_N
+armateur_H
+rapace_H
+actionnaire_N
+activiste_N
+adhérent%e
+agriculteur%agricultrice
+bouffon_H
+bouseux²%bouseuse
+cartomancien%cartomancienne
+chef²s d'entreprise_H
+chef²s de cuisine_H
+compère%commère
+compositeur%compositrice
+conseiller%conseillère
+couturier%couturière
+dirigeant%e
+développeur_H
+détenu%e
+entrepreneur_H
+ange_H
+ange²s gardien²s_H
+fée_F
+lutin_H
+démon_H
+loup-garou²²loups-garous_H
+franc-maçon²²francs-maçons%franc-maçonne²²francs-maçonnes
+métaphysicien%métaphysicienne
+physicien%physicienne
+garagiste_H
+garde²s champêtre²s_H
+gardien²s de but_H
+gêneur%gêneuse
+gourou_H
+expert%e
+guichetier%guichetière
+héritier%héritière
+instructeur%instructrice
+investigateur%investigatrice
+maçon_H
+commissaire²s de police_H
+commissaire²s aux comptes_H
+marin_H
+magnétiseur_H
+marabout_H
+maître-nageur²²maîtres-nageurs_H
+sauveteur_H
+militant%e
+milicien%milicienne
+mort-vivant²²morts-vivants_H
+naufragé%e
+nourrisson_H
+orthophoniste_N
+pneumologue_N
+mentaliste_N
+hypnotiseur_H
+parachutiste_N
+peintre_H
+portier_H
+porteur_H
+potier_H
+cancre_H
+psychanaliste_N
+rentier%rentière
+rescapé%e
+rédacteur%rédactrice
+skieur%skieuse
+patineur%patineuse
+sommelier%sommelière
+syndicaliste_N
+thérapeute_N
+nouveau-né_H
+astronome_N
+ergonome_N
+survivant%e
+tueur²s à gages%tueuse²s à gages
+vacancier%vacancière
+trublion_H
+élu%e
+électricien%électricienne
+gondolier_H
+goujat_H
+antimilitariste_N
+insurgé%e
+assaillant%e
+commentateur%commentatrice
+compétiteur_H
+bretteur_H
+tireur²s d'élite_H
+oligarque_H
+éminence_F
+altermondialiste_N
+archiduc%archiduchesse
+conscrit%e
+empereur%impératrice
+esquimau²x%esquimaude
+gnome_H
+môme_N
+mime_H
+géant%e
+géographe_N
+nain%e
+marquis²%marquise
+prince%princesse
+sultan_H
+calife_H
+scribe_H
+roi%reine
+souverain%e
+manchot_H
+ami%e
+amiral²²amiraux_H
+cantatrice_F
+chauffard_H
+cheminot_H
+corse_N
+émissaire_H
+éradicateur_H
+flibustier_H
+fournisseur_H
+limier_H
+libraire_N
+livreur_H
+partenaire_N
+partisan%e
+penseur_H
+postulant%e
+ogre%ogresse
+orateur%oratrice
+prédicateur%prédicatrice
+prélat_H
+résistant%e

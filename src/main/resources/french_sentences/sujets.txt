@@ -1,0 +1,211 @@
+un rat d'égout@3
+un inconnu@3
+tout le monde@3
+mes meilleurs amis@6
+quelques personnes@6__F
+ta mère@3__F
+le pape@3
+beaucoup de personnes@6__F
+la boulangère@3__F
+un flic@3
+le juge d'instruction@3
+ces gens-là@6@6
+un groupe de touristes@3
+la cohorte des musiciens de l'orchestre symphonique de Moscou@3__F
+un esprit froid@3
+le poulpe@3
+l'auteur du roman@3
+le sujet de cette phrase@3
+un drôle de type@3
+une femme superbe@3__F
+mon cousin@3
+le meilleur d'entre nous@3
+les coupables@6
+chaque citoyen français@3
+toute l'équipe@3__F
+les pompiers@6
+les personnes agées@6__F
+certains économistes@6
+la présentatrice de la météo@3__F
+un enfant sur trois@3
+le pianiste@3
+ma sœur@3__F
+les dangereux malfaiteurs@6
+plusieurs dirigeants de l'OPEP@6
+certaines des meilleures candidates@6__F
+les plus ardents défenseurs de la paix@6
+les oiseaux migrateurs@6
+un rhinocéros adulte@3
+tous les chats du quartier@6
+le porte-parole du gouvernement@3
+tous les membres de l'amicale des marins-pêcheurs@6
+une secrétaire trilingue@3__F
+certaines femmes@6__F
+quelqu'un de bien@3
+le curé de la paroisse de Lunéville@3
+le doyen de l'université@3
+le champion de France de karaté@3
+un fou furieux@3
+l'arbitre@3
+les journalistes@6
+le syndicat des chauffeurs de bus@3
+mon chien@3
+ton chat@3
+les manifestants@6
+la police@3__F
+l'ensemble des castors du Nebraska@3
+un imam progressiste@3
+les apaches@6
+l'évèque de Meaux@3
+le roi de la piste@3
+la meilleure chanteuse de jazz de New York@3__F
+un autre homme@3
+cette femme complètement ivre@3__F
+le futur@3
+un journaliste sur cent@3
+le chef des pirates@3
+le patron@3
+la société française@3__F
+les grecs@6
+la foule des clients insatisfaits@3__F
+cette personne@3__F
+un meurtrier psychopathe@3
+l'adjoint au maire@3
+une brute épaisse@3__F
+le meilleur pizzaïolo d'Italie@3
+la remplaçante du facteur@3__F
+le personnage principal@3
+le cuisinier@3
+l'union des fabricants de mines anti-personnel@3__F
+le vainqueur de la course@3
+les cancres@6
+mes cousins@6
+les autistes@6
+un sourd-muet@3
+ce vieil aveugle@3
+les autorités@6__F
+quelques techniciens@6
+le personnel du supermarché@3
+l'employé du mois@3
+les meilleurs experts@6
+nos ancêtres@6
+les anorexiques@6
+la vendeuse de ballons@3__F
+un ouvrier du bâtiment@3
+quelqu'un@3
+les représentants de la CGT@6
+l'artiste@3
+un médecin@3
+les infirmières@6__F
+un fakir de quatre-vingt-dix ans@3
+l'armée du Pakistan@3__F
+les hauts gradés@6
+quelques sportifs amateurs@6
+un ogre@3
+le professeur de maths@3
+un clochard@3
+le prince charmant@3
+l'homme de ta vie@3
+la personne à laquelle je pense@3__F
+la personne dont tu m'as parlé@3__F
+l'ennemi public numéro un@3
+le dresseur de furets@3
+les taxidermistes@6
+le chauffeur du taxi@3
+ton copain plombier@3
+le pire des salauds@3
+un ingénieur informaticien@3
+le prochain candidat@3
+la plus belle@3__F
+ce mec@3
+le marchand de sable@3
+les femmes de ma vie@6__F
+ma meilleure amie@3__F
+un riche paysan@3
+mon client@3
+votre petit protégé@3
+la foule@3__F
+les gens@6
+Sa Majesté@3__F
+Madame@3__F
+cet abruti@3
+un passant@3
+le traitre@3
+les avocats@6
+ton interlocuteur@3
+le bourreau@3
+les victimes@6__F
+les allemands@6
+le dernier dandy@3
+le poète de la Mort@3
+les petits commerçants de mon quartier@6
+la racaille@3__F
+trente et un pour cent des travailleurs immigrés@6
+la femme idéale@3__F
+un célèbre architecte@3
+presque toutes les filles@6__F
+une âme en peine@3__F
+mes potes@6
+le spectre du passé@3
+un bon gars@3
+les deux ambulanciers@6
+celui qui nous manipule@3
+celle-là@3__F
+le capitaine@3
+le champion du monde de sumo@3
+les alcooliques@6
+votre porte-parole@3
+le maire de Nancy@3
+la mafia@3__F
+les défenseurs de la laïcité@6
+les enfants nés de père inconnu@6
+l'avocat du diable@3
+tes fameux spécialistes@6
+les douaniers@6
+la famille royale@3__F
+les pires escrocs@6
+le bouc émissaire@3
+une femme sur quatre@3__F
+les terroristes@6
+n'importe qui@3
+la bergère@3__F
+un tueur en série@3
+les éboueurs@6
+l'administration@3__F
+un animal sauvage@3
+le pire des agents immobiliers@3
+tous les démons de l'enfer@6
+le prix Nobel de chimie@3
+mon maître@3
+vos domestiques@6
+votre pharmacien-conseil@3
+vos parents@6
+le premier ministre ougandais@3
+Google@3
+Microsoft@3
+Apple@3
+Facebook@3
+Twitter@3
+Amazon@3
+la France@3__F
+les Etats-Unis@6
+le pentagone@3
+la Lybie@3__F
+le Honduras@3
+la Corée du Nord@3__F
+le gouvernement du Pakistan@3
+le Mozambique@3
+la Chine@3__F
+le Japon@3
+le Maroc@3
+la Tunisie@3__F
+la présidente finlandaise@3__F
+les actionnaires de Total@6
+la Suisse@3__F
+Nestlé@3
+les trois petits cochons@6
+les Quatre Fantastiques@6
+Dieu@3
+le Diable@3
+la Panthère Rose@3__F
+les frères Bogdanov@6

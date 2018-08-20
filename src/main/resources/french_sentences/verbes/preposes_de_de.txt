@@ -1,0 +1,41 @@
+avoir{envie}
+avoir{besoin}
+vouloir{parler}
+vouloir{entendre parler}
+prendre#13{soin}
+prendre#13{note}
+prendre#13{conscience}
+faire{fi}
+tirer#1{parti}
+médire#6
+se souvenir#8
+se lasser#1
+se méfier#1
+s'occuper#1
+se plaindre#7
+parler#1
+rêver#1
+se passer#1
+se priver#1
+se gaver#1
+hériter#1
+se moquer#1
+se débarrasser#1
+se munir#2
+s'armer#1
+s'équiper#1
+disposer#1
+profiter#1
+approcher#1
+se rapprocher#1
+provenir#8
+débattre#17
+douter#1
+s'enorgueillir#2
+accoucher#1
+s'approcher#1
+s'inspirer#1
+dépendre#4
+s'étonner#1
+se servir#19
+se détourner#1

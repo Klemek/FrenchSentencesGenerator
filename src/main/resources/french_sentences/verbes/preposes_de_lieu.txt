@@ -1,0 +1,117 @@
+chercher#1{refuge}
+trouver#1{refuge}
+toucher#1{terre}
+être{en exil}
+demander#1{l'asile politique}
+établir#2{le campement}
+établir#2{domicile}
+tenir#8{conseil}
+ficher#1{le camp}
+exercer#9{le pouvoir}
+prendre#13{racine}
+faire{tache}
+faire{escale}
+faire{fausse route}
+se faire{la malle}
+se faire{conduire}
+se faire{déposer}
+se faire{catapulter}
+se faire{attendre}
+mettre#14{les bouts}
+partir#3{en vacances}
+aller{en vélo}
+aller{en avion}
+aller{en train}
+partir#3
+repartir#3
+aller
+revenir#8
+atterrir#2
+tomber#1
+arriver#1
+venir#8
+fuir
+être
+rester#1
+vivre#22
+habiter#1
+loger#10
+résider#1
+demeurer#1
+dormir
+conduire#6
+travailler#1
+intervenir#8
+apparaître#5
+filer#1
+monter#1
+descendre#4
+retourner#1
+se tenir#8
+se rendre#4
+se cacher#1
+se situer#1
+se réfugier#1
+s'enfuir
+se retrouver#1
+se trouver#1
+se poser#1
+se placer#9
+se masser#1
+se pointer#1
+se trimbaler#1
+se transporter#1
+s'embourber#1
+s'enliser#1
+se perdre
+sortir#3
+entrer#1
+passer#1
+stagner#1
+poireauter#1
+défiler#1
+squatter#1
+camper#1
+déferler#1
+croupir#2
+dégringoler#1
+déguerpir#2
+émigrer#1
+emménager#10
+farfouiller#1
+foncer#9
+s'incruster#1
+fouiner#1
+glisser#1
+grouiller#1
+moisir#2
+mariner#1
+nager#10
+naviguer#1
+dériver#1
+s'exiler#1
+patauger#10
+patrouiller#1
+plonger#10
+se précipiter#1
+se ruer#1
+rappliquer#1
+surgir#2
+resurgir#2
+séjourner#1
+stationner#1
+se garer#1
+s'installer#1
+débouler#1
+se tailler#1
+se barrer#1
+galoper#1
+se terrer#1
+se faufiler#1
+s'agglutiner#1
+se planter#1
+débarquer#1
+se gauffrer#1
+se vautrer#1
+se téléporter#1
+sombrer#1

@@ -1,0 +1,55 @@
+prendre#13{exemple}
+prendre#13{appui}
+reprendre#13{l'avantage}
+faire{main basse}
+faire{l'impasse}
+faire{une croix}
+mettre#14{la main}
+mettre#14{le paquet}
+crier#1{haro}
+rejeter#21{la faute}
+garder#1{l'œil}
+compter#1
+miser#1
+agir#2
+tabler#1
+reposer#1
+parier#1
+se reposer#1
+se ruer#1
+atterrir#2
+se baser#1
+grimper#1
+se tenir#8
+appuyer#1
+s'appuyer#1
+régner#11
+s'interroger#10
+se rabattre#17
+cogner#1
+taper#1
+empiéter#11
+s'extasier#1
+glisser#1
+influer#1
+insister#1
+se lamenter#1
+lésiner#1
+méditer#1
+se calquer#1
+se poster#1
+se précipiter#1
+se jeter#21
+se venger#10
+se défouler#1
+s'acharner#1
+travailler#1
+monter#1
+tomber#1
+trébucher#1
+bloquer#1
+rebondir#2
+buter#1
+pisser#1
+vomir#2
+s'étendre#4

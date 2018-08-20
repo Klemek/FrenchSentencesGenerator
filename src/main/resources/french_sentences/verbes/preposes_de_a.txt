@@ -1,0 +1,68 @@
+porter#1{secours}
+porter#1{atteinte}
+porter#1{chance}
+porter#1{la poisse}
+prêter#1{l'oreille}
+tourner#1{le dos}
+compter#1{fleurette}
+donner#1{naissance}
+demander#1{conseil}
+mettre#14{un terme}
+faire{un clin d'œil}
+faire{les yeux doux}
+faire{obstacle}
+faire{attention}
+faire{honneur}
+faire{signe}
+faire{appel}
+faire{confiance}
+faire{honte}
+faire{peur}
+faire{coucou}
+faire{rendre gorge}
+poser#1{problème}
+chercher#1{querelle}
+prendre#13{part}
+rendre#4{hommage}
+tenir#8{tête}
+tenir#8{compagnie}
+dire{merci}
+dire{amen}
+dire{stop}
+dire{adieu}
+dire{non}
+dire{la bonne aventure}
+prédire#6{l'avenir}
+jeter#21{un œil}
+résister#1
+survivre#22
+renoncer#9
+penser#1
+songer#10
+ressembler#1
+coller#1
+trinquer#1
+répondre#4
+réagir#2
+nuire
+contribuer#1
+correspondre#4
+accéder#11
+succéder#11
+téléphoner#1
+échapper#1
+s'attacher#1
+se vouer#1
+se référer#11
+se limiter#1
+s'opposer#1
+s'associer#1
+se consacrer#1
+s'appuyer#15
+se mesurer#1
+s'attaquer#1
+recourir
+souscrire#18
+s'attendre#4
+s'abonner#1
+déroger#10

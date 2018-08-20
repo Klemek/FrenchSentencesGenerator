@@ -1,0 +1,94 @@
+le petit frère de $@3__H
+la sœur de $@3__F
+un ami de $@3__H
+la meilleure amie de $F@3__F
+un lointain parent de $@3__H
+l'ennemi juré de $@3__H
+le coiffeur de $@3__H
+la famille de $@3__F
+le sosie de $@3__H
+le club des admirateurs de $@3__H
+le biographe attitré de $@3__H
+la grand-mère de $@3__F
+le beau-frère de $@3__H
+l'assassin de $@3__H
+$ en personne@3
+$ et ses avocats@6
+un étrange individu à mi-chemin entre $M et $M@3__H
+une étrange personne à mi-chemin entre $F et $F@3__F
+$ et quelques amis@6__H
+un détraqué prétendant être la réincarnation de $M@3__H
+le maître à penser de $@3__H
+$ et $@6
+le réalisateur du film \"$ contre $\"@3__H
+ceux qui préfèrent $ à $@6__H
+le fils caché de $@3__H
+le psychanalyste de $@3__H
+une groupie de $M@3__F
+l'enfant adoptif de $ et de $@3__H
+une femme évoquant l'esprit de $F dans le corps de $F@3__F
+un homme évoquant l'esprit de $M dans le corps de $M@3__H
+le premier amour de $@3__H
+$M et toute sa clique@6__H
+$ et sa famille@6__H
+l'attaché de presse de $@3__H
+l'éditeur des oeuvres complètes de $@3__H
+le seul ami de $M@3__H
+la maman de $@3__F
+le meilleur joueur d'échecs depuis $@3__H
+une créature de rêve avec la voix de $ et les cheveux de $@3__F
+le plus mauvais karatéka depuis $@3__H
+l'homme qui a sauvé la vie de $@3__H
+$M et son inséparable complice $M@6
+$ et moi@4
+$ et toi@5
+tous les amis d'enfance de $@6__H
+l'arbitre du match \"$M contre $M\"@3__H
+tout le monde sauf $@3__H
+$ au sommet de sa forme@3
+$, $ et moi@4
+$, $ et toi@5
+$, $, et même $@6
+quelqu'un qui ressemble à $@3__H
+la doublure de $@3__F
+$F en petite tenue@3
+la parodie gothique de $@3__F
+le mari de $F@3__H
+la femme de $M@3__F
+le premier petit ami de $F@3__H
+un couple aussi bien assorti que $F et $M@3__H
+le voisin de palier de $@3__H
+$ se prenant pour $@3
+l'auteur du livre \"Ma vie avec $\"@3__H
+la baby-sitter de $@3__F
+un certain \"$M\"@3
+une certaine \"$F\"@3
+tous les ancêtres de $@6__H
+tous les descendants de $@6__H
+$M déguisé en $@3
+$F déguisée en $@3__F
+$M (malheureusement accompagné de $)@3
+$F (malheureusement accompagnée de $)@3__F
+$ complètement ivre@3
+$M et $F la main dans la main@6
+$ portant $ sur son dos@3
+le psychanaliste de $@3__H
+le fantôme de $@3__H
+le chat de $@3__H
+quelqu'un qui déteste $@3__H
+tous les participants du mariage de $M et $F@6__H
+les enfants de $F et $M@6__H
+un barman ayant bien connu $@3__H
+la sage-femme qui a mis au monde $@3__F
+le partenaire de bridge de $@3__H
+une strip-teaseuse encore plus torride que $F@3__F
+un lutteur aussi imposant que $M@3
+$M et son bras droit $M@6
+$F et son assistante $F@6
+une femme moins belle que $F@3
+un homme moins grand que $M@3
+un monstre sorti des cauchemars de $@3__H
+la dernière personne ayant parlé à $@3__F
+l'équipe de choc formée par $ et $@3__F
+le contact de $ dans la Mafia@3__H
+le fils spirituel de $M@3

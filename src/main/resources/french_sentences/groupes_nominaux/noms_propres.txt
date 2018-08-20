@@ -1,0 +1,728 @@
+Coluche
+Barack Obama
+Plastic Bertrand
+Winston Churchill
+Casimir
+Gandhi
+Mike Tyson
+Pablo Picasso
+Toshiro Mifune
+Boris Vian
+Mère Thérésa_F
+Jeanne Calment_F
+Sid Vicious
+Bourvil
+Wolfgang Amadeus Mozart
+Jésus
+Jean-Marie Le Pen
+Vito Corleone
+Marcel Gotilb
+Baruch Spinoza
+Joe Dalton
+Michael Jackson
+Jean-Paul II
+Louis XIV
+Charlemagne
+Léonard De Vinci
+Nicolas Sarkozy
+Satan
+µannick Noah
+Claire Chazal_F
+Sigourney Weaver_F
+Billie Holliday_F
+Sophie Marceau_F
+Lénine
+Robert Hue
+Stanley Kubrick
+Stephen King
+Albert Einstein
+Johnny Depp
+Roselyne Bachelot_F
+Judas
+Bernard Tapie
+Pedro Almodovar
+Keny Arcana_F
+Enzo Ferrari
+Francis Ford Coppola
+Jean-Claude Van Damme
+Laurent Joffrin
+Bernadette Chirac_F
+Jean Tibéri
+Ronald Mac Donald
+Herbie Hancock
+Herbert Léonard
+Carlos Santana
+µann Arthus-Bertrand
+Hector de Troie
+Merlin l'enchanteur
+Walt Disney
+Tim Burton
+Clint Eastwood
+Henri Poincaré
+David Lynch
+Abraham Lincoln
+Bernard-Henri Lévy
+Francis Cabrel
+Nana Mouskouri_F
+Gérard Holtz
+Arnold Schwartzenegger
+Joséphine Baker_F
+Victoria Abril_F
+Carole Bouquet_F
+Michel Serrault
+Michael Jordan
+Alain Gillot-Pétré
+Arlette Laguiller_F
+Bill Clinton
+Bill Gates
+Carla Bruni_F
+Dora l'exploratrice_F
+Victor Hugo
+Nicolas Hulot
+Bob l'éponge
+Bela Lugosi
+Bin Laden
+Madonna_F
+Silvio Berlusconi
+Chuck Norris
+Babar
+Arsène Lupin
+Garcimore
+Kim Jong Un
+Lara Fabian_F
+Lino Ventura
+Batman
+Martin Luther King
+Joe Rogan
+Robocop
+Tino Rossi
+Alfred Hitchcock
+Godzilla
+Vladimir Poutine
+Blanche-Neige_F
+King Kong
+Dark Vador
+Michel Platini
+Raymond Barre
+Paul Bocuse
+Dieudonné
+Pierre Desproges
+Staline
+Maïté_F
+Caroline de Monaco_F
+Laure Manaudou_F
+Ingrid Bettancourt_F
+Voltaire
+Karl Marx
+Zorro
+Fidel Castro
+Serge Gainsbourg
+Georges Brassens
+l'incroyable Hulk
+Alex Jones
+Jean-Pierre Foucault
+Michel Foucault
+David Douillet
+Johnny Halliday
+Bob Marley
+Monica Bellucci_F
+Woody Allen
+Jean-Pierre Bacri
+Ségolène Royal_F
+Robert De Niro
+José Bové
+Olivier Besancenot
+Dracula
+Al Capone
+Ronald Reagan
+Jean-Luc Delarue
+Jean-Pierre Coffe
+Enrico Macias
+Marthe Villalonga_F
+Jacques Séguéla
+Umberto Eco
+François Fillon
+Doc Gynéco
+Neil Armstrong
+François Mitterand
+Fanny Ardant_F
+Alain Chabat
+Eric Cantona
+Che Guevara
+Alain Prost
+Léo Ferré
+Bobby Lapointe
+Raymond Devos
+la fée Clochette_F
+Eros Ramazzotti
+Stevie Wonder
+Georges Moustaki
+Lionel Jospin
+Albert Dupontel
+Cabu
+Frank Zappa
+Maradonna
+Mussolini
+Benjamin Netanyahu
+Recep Erdogan
+Pascal Sevran
+Angela Merkel_F
+Rachida Dati_F
+Gaston Lagaffe
+James Bond
+Indiana Jones
+µasser Arafat
+Bruce Lee
+Lucky Luke
+Jean-Paul Sartre
+Iggy Pop
+Basile Boli
+Arlette Chabot_F
+Sharon Stone_F
+Louis Armstrong
+Frank Sinatra
+Speedy Gonzales
+Spiderman
+Lady Di_F
+Gargantua
+Popeye le marin
+Oxmo Puccino
+Derrick
+James Dean
+Jean Moulin
+Robespierre
+Obélix
+Genghis Khan
+Jules César
+Platon
+Claude Nougaro
+John Travolta
+Dwayne Johnson
+Gad Elmaleh
+Jamel Debbouze
+Michel Drucker
+Andy Warhol
+Marylin Monroe_F
+Shrek
+Napoléon
+Hitler
+Chantal Goya_F
+Machiavel
+Jim Carrey
+Mister T
+Jean Reno
+Lancelot Du Lac
+le roi Arthur
+Marie Curie_F
+Louis Pasteur
+Daniel Cohn-Bendit
+Jack Lang
+Jacques Chirac
+Hilary Clinton_F
+Tony Blair
+Kermit
+Viktor Frankenstein
+Superman
+Jacques Martin
+Sigmund Freud
+Britney Spears_F
+Emile Zola
+Antoine de Caunes
+Lakshmi Mittal
+Jeanne d'Arc_F
+Alain Juppé
+Dominique de Villepin
+Dominique Farrugia
+Philippe Val
+Will Smith
+Bruce Willis
+Bruce Banner
+Bruce Springsteen
+Jacques Dutronc
+Philippe Léotard
+Robert Charlebois
+Bertrand Cantat
+Quasimodo
+Nikita Khrouchtchev
+µouri Gagarine
+John Wayne
+Borat
+Julien Courbet
+Laurent Ruquier
+Vanessa Paradis_F
+Jeanne Moreau_F
+Robin des bois
+Céline Dion_F
+Paris Hilton_F
+Ayrton Senna
+Louison Bobet
+Bob Beamon
+William Shakespeare
+Nina Hagen_F
+Pierre Richard
+Mary Poppins_F
+Belzébuth
+Joey Starr
+Caliméro
+Michel Galabru
+Steve Austin
+Andrès Manuel Lopez Obrador
+Luke Skywalker
+Mister Bean
+Tarzan
+Carl Lewis
+Martin Scorsese
+Martina Navratilova_F
+Kad Merad
+Taylor Swift_F
+Lebron James
+Benoît XVI
+John Keats
+Patrick Poivre d'Arvor
+Akira Kurosawa
+David Hasseloff
+Horst Tapper
+Gérard Majax
+Albert Cohen
+Charlie Chaplin
+Mireille Mathieu_F
+Eva Longoria_F
+Paul Verhoeven
+Nick Cave
+Jean-Louis Trintignant
+Jean-Pierre Marielle
+Homère
+Sophie Davant_F
+Yves Calvi
+Jacques Attali
+Jacques Mesrine
+Charles Manson
+Hugues Aufray
+l'abbé Pierre
+la vierge Marie_F
+Bernard Menez
+Christine Ockrent_F
+Anne Sinclair_F
+Gérard Depardieu
+Dick Rivers
+Linda de Souza_F
+Paul Mac Cartney
+Diana Ross_F
+Mick Jagger
+David Bowie
+Marine Le Pen_F
+Philippe De Villiers
+Serge Dassault
+Groquick
+Elon Musk
+Philippe Bouvard
+Coco Channel_F
+Cheb Khaled
+Mohammed VI
+le pape Urbain III
+Marcus Garvey
+Eddie Mitchell
+Bruno Carette
+Michel Blanc
+Gérard Jugnot
+Harry Roselmack
+Harry Potter
+Louis XVI
+Rika Zaraï_F
+Jean-Marie Messier
+Pascal Obispo
+Pascal Légitimus
+Monsieur Spok
+Gollum
+Danny Boon
+John Lennon
+Freddie Mercury
+Nelson Mandella
+Mikhaïl Gorbatchev
+Léon Trotsky
+Gilles Deleuze
+Christophe Colomb
+Michel-Ange
+John F. Kennedy
+Vincent Van Gogh
+Isaac Newton
+Cléopâtre_F
+Tom Cruise
+Aristote
+Blaise Pascal
+René Descartes
+Harrisson Ford
+Jack Nicholson
+Eddie Murphy
+Sean Penn
+Sean Connery
+Ray Charles
+Julia Roberts_F
+Ariana Grande_F
+Katy Perry_F
+Pamela Anderson_F
+Fred Astaire
+Humphrey Bogart
+Robert Mitchum
+Laurent Fabius
+Dominique Strauss-Kahn
+Miles Davis
+Simone De Beauvoir_F
+Margaret Thatcher_F
+Lio_F
+Klaus Barbie
+Maurice Papon
+Jean Jaurès
+Bozo le clown
+Jean Sarkozy
+Sacha Distel
+Robert Smith
+Al Pacino
+Bree Van De Kamp_F
+Oprah Winfrey_F
+Marge Simpson_F
+Homer Simpson
+Camille Claudel_F
+George Sand_F
+Emma Bovary_F
+Charlotte Gainsbourg_F
+Uma Thurman_F
+la Belle au Bois Dormant_F
+Dorothée_F
+Marion Cotillard_F
+Emmanuelle Béart_F
+Dalida_F
+Smaïn
+Nathalie Baye_F
+Claude François
+Denise Fabre_F
+Ivanka Trump_F
+Kellyanne Conway_F
+Lara Croft_F
+Cynthia Nixon_F
+Vampirella_F
+Farah Fawcett_F
+Yvette Horner_F
+Marie-José Perec_F
+Laurence Ferrari_F
+Victoria Silvstedt_F
+Wonder Woman_F
+la princesse Leïa_F
+Soeur Emmanuelle_F
+Valérie Lemercier_F
+Mimie Mathy_F
+Shaquille O'Neal
+Yma Sumac_F
+Hayao Miyazaki
+Rita Hayworth_F
+Jerry Seinfeld
+Laurence Parisot_F
+Michael Moore
+George Michael
+Tex Avery
+le capitaine Haddock
+le commandant Cousteau
+le sous-commandant Marcos
+le sergent Garcia
+le maréchal Pétain
+le général De Gaulle
+Xavier Bertrand
+Philippe Risoli
+Fernandel
+Jean-Paul Belmondo
+Miou-Miou_F
+Hannibal Lecter
+la reine d'Angleterre_F
+le Dalaï-Lama
+le Yéti
+Mike Brant
+Angelica Houston_F
+Whitney Houston_F
+Jean Carmet
+Edouard Balladur
+Marguerite Duras_F
+le capitaine Némo
+Raspoutine
+Donald Trump
+Elvis Presley
+Jean-Pierre Daroussin
+Silvester Stallone
+le Grand Schtroumph
+la Schtroumphette_F
+Marlene Dietrich_F
+Alice Sapritch_F
+Claude Piéplu
+Bernard Pivot
+le professeur Choron
+Frédéric Mitterand
+Dario Moreno
+Luis Mariano
+Salvatore Adamo
+Richard Anconina
+Michel Boujenah
+Florence Foresti_F
+Muriel Robin_F
+Michèle Laroque_F
+Bilbo le hobbit
+Garry Kasparov
+Sarah Palin_F
+Carlos
+le juge Burgaud
+Pancho Villa
+Rosa Luxembourg_F
+D'Artagnan
+Omar Bongo
+Thomas Sankara
+Mouammar Kadhafi
+Gamal Abdel Nasser
+le maréchal Tito
+Radovan Karadzic
+Simone Veil_F
+Edith Cresson_F
+Euclide
+Pythagore
+Montesquieu
+le cardinal de Richelieu
+le père Fouettard
+Saint-Nicolas
+Saint-Louis
+l'apôtre Pierre
+Bernard Werber
+Peter Jackson
+Peter Pan
+Tom Jones
+Chewbacca
+Colbert
+Jean de la Fontaine
+Helmut Kohl
+Boris Eltsine
+Jacques Brel
+Edith Piaf_F
+Cendrillon_F
+Hildegarde Von Bingen_F
+Catherine de Médicis_F
+Guillaume Tell
+Michel Sardou
+Jackie Sardou_F
+Geneviève de Fontenay_F
+Mathilda May_F
+Bernadette Laffont_F
+Alexandre le Grand
+Etienne Mougeotte
+Flash Gordon
+Catherine Jacob_F
+Emma Thompson_F
+Carmen Maura_F
+Tiger Woods
+Bernie Sanders
+George Carlin
+Jack Palance
+Kurt Cobain
+Courtney Love_F
+Robert Wadlow
+Henri IV
+François 1er
+Goldorak
+le général Franco
+Pino D'Angio
+Arno Klarsfeld
+Luc Ferry
+Rama Yade_F
+Fadela Amara_F
+Faye Dunaway_F
+Charles Bukowski
+Garfield
+Lee \"Scratch\" Perry
+Charlton Heston
+Henry Fonda
+Jane Fonda_F
+Jean-Pierre Papin
+Steffi Graf_F
+Alf
+Orson Welles
+Robin Williams
+Robinson Crusoë
+Pierre Bellemare
+Léon Zitrone
+Guy Lux
+Marie-Christine Barrault_F
+Romy Schneider_F
+Simone Signoret_F
+Isabelle Adjani_F
+Roger Hanin
+Laetitia Casta_F
+Grace Jones_F
+Macy Gray_F
+Alain Minc
+Claude Rich
+Jean Rochefort
+Salvador Allende
+Romain Valeri
+Emiliano Zapata
+Vercingétorix
+Jacques Delors
+Martine Aubry_F
+Noël Mamère
+Dominique Voynet_F
+Philippe Sollers
+Elisabeth Badinter_F
+Anne Roumanov_F
+Mary Shelley_F
+Armande Altaï_F
+Nicoletta_F
+la Lorelei_F
+la fée Carabosse_F
+Stéphane Guillon
+Chantal Lauby_F
+Beyoncé_F
+Dan Simmons
+Isaac Asimov
+J.R.R. Tolkien
+Stephen Fry
+Christopher Hitchens
+Jessica Rabbit_F
+Arthur Rimbaud
+Hermann Göring
+Monsieur Phelbs
+Alexandre Astier
+Jean Dujardin
+Bruno Salomone
+Circé la magicienne_F
+Madame Soleil_F
+Paco Rabanne
+Guy Bedos
+George Gershwin
+le professeur Tournesol
+Rudyard Kipling
+Nicolas Demorand
+Alain Madelin
+Joann Sfar
+Pinocchio
+Pierre Bourdieu
+Paul Anka
+Ziggy Stardust
+Michèle Obama_F
+Claudia Cardinale_F
+Michèle Alliot-Marie_F
+Daniel Guichard
+Pierre Bachelet
+Sherlock Holmes
+Kenneth Branagh
+Charles Baudelaire
+Lou Ferrigno
+François Hadji-Lazaro
+Ken Loach
+Aimé Césaire
+William Leymergie
+Leonardo Dicaprio
+Landru
+Pocahontas_F
+Michaël Youn
+Hugo Chavez
+Richard Gere
+Charles Ingalls
+Laura Ingalls_F
+Madame Olson_F
+Hannah Montana_F
+Calamity Jane_F
+Jackie Brown_F
+Condoleezza Rice_F
+Jeanne Mas_F
+David Copperfield
+Angelina Jolie_F
+André Citroën
+Barbara Bush_F
+Vil Coyote
+Nosferatu
+Terence Hill
+Sergio Leone
+Eli Wallach
+Ursula Andress_F
+Shéhérazade_F
+Brigitte Fontaine_F
+DJ Krush
+MC Hammer
+Rutger Hauer
+Melanie Griffith_F
+John Cleese
+Calvin Klein
+Giorgio Armani
+Eric Naulleau
+Didier Porte
+Ella Fitzgerald_F
+Dinah Washington_F
+Saint-Anselme
+Jean-Claude Bourret
+le commissaire Maigret
+l'ayatollah Khomeni
+Evo Morales
+Florent Pagny
+Gisèle Halimi_F
+Christine Bravo_F
+Isabelle Giordano_F
+Zorah \"la rousse\"_F
+Erik Satie
+Michael Douglas
+Kirk Douglas
+Jacques Chancel
+Christian Estrosi
+le professeur Rollin
+Hannibal Smith
+Luis Rego
+Daniel Auteuil
+Coco l'asticot
+Ernest-Antoine Seillière
+Nicole Notat_F
+Michael Keaton
+Buster Keaton
+Jean-Louis Borloo
+François Bayrou
+Casper le fantôme
+Barbe-Bleue
+le Petit Poucet
+Jennifer Lopez_F
+Lady Gaga_F
+Eric Woerth
+Liliane Bettencourt_F
+Nadine Morano_F
+Françoise Dolto_F
+Françoise Sagan_F
+Eric Cartman
+Jeannie Longo_F
+Claudia Schiffer_F
+Naomi Campbell_F
+Cindy Crawford_F
+Quincy Jones
+Linda Evangelista_F
+Valérie Pécresse_F
+le Petit Chaperon Rouge_F
+Anny Duperey_F
+Don Quichotte
+François Baroin
+Emmanuel Macron
+Thierry Lhermitte
+Thierry la Fronde
+Michael Schumacher
+Bruno Cremer
+Zabou Breitman_F
+Clark Gable
+Nostradamus
+Brigitte Bardot_F
+Catherine Deneuve_F
+Julie Delpy_F
+Hélène De Fougerolles_F
+Cécile De France_F
+France Gall_F
+Brigitte Macron_F
+Mata Hari_F
+Yolande Moreau_F
+la comtesse De Ségur_F
+la comtesse Bathory_F
+Antoine De Saint-Exupéry
+Charlie Oleg
+François Morel
+Gérald Dahan
+Pline l'ancien
+Cicéron
+l'ange Gabriel
+Vénus_F

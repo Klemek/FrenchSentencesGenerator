@@ -1,0 +1,86 @@
+se donner#1{la peine}
+avoir{envie}
+avoir{à cœur}
+avoir{besoin}
+avoir{le courage}
+avoir{le pouvoir}
+avoir{la chance}
+avoir{le droit}
+avoir{tort}
+avoir{raison}
+pouvoir{refuser}
+rougir#2{à l'idée}
+considérer#11{la possibilité}
+faire{semblant}
+faire{mine}
+faire{exprès}
+faire{la promesse}
+prêter#1{serment}
+refuser#1
+attendre#4
+éviter#1
+se piquer#1
+se targuer#1
+accepter#1
+manquer#1
+tâcher#1
+mériter#1
+imaginer#1
+supporter#1
+oublier#1
+finir#2
+regretter#1
+se reprocher#1
+parler#1
+rêver#1
+projeter#21
+arrêter#1
+brûler#1
+essayer#15
+tenter#1
+cesser#1
+feindre#7
+ambitionner#1
+proposer#1
+craindre#7
+décider#1
+choisir#2
+exiger#10
+envisager#10
+risquer#1
+permettre#14
+redouter#1
+jurer#1
+omettre#14
+s'interdire
+se dispenser#1
+se presser#1
+promettre#14
+se promettre#14
+se permettre#14
+se proposer#1
+se féliciter#1
+s'arrêter#1
+s'accuser#1
+s'excuser#1
+se passer#1
+se lasser#1
+se retenir#8
+se garder#1
+souffrir#16
+se vanter#1
+réclamer#1
+négliger#10
+préconiser#1
+menacer#9
+se dépêcher#1
+se grouiller#1
+se £âter#1
+s'empêcher#1
+s'abstenir#8
+s'efforcer#9
+s'empresser#1
+s'étonner#1
+s'occuper#1
+achever#12
+désespérer#11

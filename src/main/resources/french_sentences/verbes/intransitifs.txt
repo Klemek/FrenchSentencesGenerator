@@ -1,0 +1,359 @@
+plaider#1{coupable}
+garder#1{courage}
+crier#1{victoire}
+jeter#21{l'éponge}
+porter#1{le deuil}
+passer#1{l'éponge}
+passer#1{le bac}
+casser#1{la croûte}
+lâcher#1{prise}
+prendre#13{feu}
+prendre#13{la mouche}
+rendre#4{l'âme}
+ouvrir#16{l'œil}
+perdre{la face}
+perdre{la tête}
+perdre{espoir}
+perdre{connaissance}
+avoir{faim}
+avoir{soif}
+avoir{sommeil}
+faire{fortune}
+faire{dodo}
+faire{grève}
+faire{le poids}
+plier#1{boutique}
+déclarer#1{forfait}
+jouer#1{aux échecs}
+appeler{au secours}
+tenir#8{parole}
+tenir#8{le coup}
+se brosser#1{les dents}
+chanter#1
+déchanter#1
+parler#1
+geindre#7
+grelotter#1
+déteindre#7
+rire
+dormir
+attendre#4
+brûler#1
+jouer#1
+crier#1
+lire
+transpirer#1
+souffrir#16
+guérir#2
+réfléchir#2
+courir
+travailler#1
+suinter#1
+jongler#1
+tousser#1
+vieillir#2
+parader#1
+abandonner#1
+recommencer#9
+marcher#1
+pique-niquer#1
+sautiller#1
+craquer#1
+venir#8
+traîner#1
+discuter#1
+frimer#1
+trembler#1
+hésiter#1
+revenir#8
+comploter#1
+cuisiner#1
+skier#1
+soupirer#1
+vivre#22
+survivre#22
+fumer#1
+gesticuler#1
+arriver#1
+partir#3
+gémir#2
+frémir#2
+£ennir#2
+pourrir#2
+rêver#1
+triompher#1
+échouer#1
+tomber#1
+trébucher#1
+voyager#10
+fleurir#2
+atterrir#2
+languir#2
+agoniser#1
+méditer#1
+changer#10
+disparaître#5
+apparaître#5
+geindre#7
+peindre#7
+intervenir#8
+repartir#3
+avancer#9
+bouger#10
+rougir#2
+bronzer#1
+errer#1
+agir#2
+mentir#3
+stagner#1
+progresser#1
+régresser#1
+reculer#1
+prier#1
+céder#11
+dériver#1
+grandir#2
+rajeunir#2
+délirer#1
+éternuer#1
+grossir#2
+maigrir#2
+cracher#1
+vibrer#1
+digérer#11
+délibérer#11
+récidiver#1
+pleurer#1
+grogner#1
+tituber#1
+briller#1
+passer#1
+ruminer#1
+gazouiller#1
+bafouiller#1
+flâner#1
+patiner#1
+zigzaguer#1
+rétrécir#2
+filer#1
+fondre#4
+mourir
+étouffer#1
+respirer#1
+expirer#1
+ruser#1
+souffler#1
+fuir
+ramper#1
+se cacher#1
+s'allonger#10
+se laver#1
+se coiffer#1
+se reposer#1
+se nourrir#2
+se calmer#1
+s'énerver#1
+se tromper#1
+s'essouffler#1
+s'amuser#1
+se divertir#2
+s'auto-mutiler#1
+se suicider#1
+s'exprimer#1
+se détendre#4
+se montrer#1
+se méfier#1
+se lever#12
+se coucher#1
+se moucher#1
+s'échapper#1
+se débrouiller#1
+s'ennuyer#15
+se relever#12
+se racheter#12
+se soulever#12
+se rattraper#1
+s'agiter#1
+se marrer#1
+frissonner#1
+s'inquiéter#11
+renoncer#9
+persévérer#11
+se morfondre#4
+râler#1
+protester#1
+se prosterner#1
+se baigner#1
+jubiler#1
+bosser#1
+trembloter#1
+chigner#1
+couiner#1
+baffrer#1
+déconner#1
+glander#1
+poireauter#1
+gonfler#1
+enfler#1
+se dégonfler#1
+parlementer#1
+abdiquer#1
+accélérer#11
+alunir#2
+barboter#1
+batifoler#1
+baver#1
+bavarder#1
+beugler#1
+bifurquer#1
+bivouaquer#1
+blasphémer#11
+blémir#2
+bouder#1
+bouquiner#1
+bourlinguer#1
+boursicoter#1
+bricoler#1
+chahuter#1
+chipoter#1
+chômer#1
+cicatriser#1
+circuler#1
+double-cliquer#1
+cogiter#1
+exister#1
+culpabiliser#1
+cotiser#1
+coopérer#11
+décompresser#1
+décliner#1
+conspirer#1
+déjeuner#1
+démissionner#1
+dépérir#2
+déprimer#1
+déraper#1
+divaguer#1
+empester#1
+puer#1
+exulter#1
+faiblir#2
+fanfaronner#1
+fantasmer#1
+gamberger#10
+frétiller#1
+fulminer#1
+gargouiller#1
+gigoter#1
+glisser#1
+glousser#1
+chuchoter#1
+hiberner#1
+chuinter#1
+£ululer#1
+£urler#1
+imploser#1
+exploser#1
+insister#1
+jardiner#1
+jaunir#2
+jeûner#1
+macérer#11
+manœuvrer#1
+militer#1
+mincir#2
+moisir#2
+morfler#1
+muer#1
+mugir#2
+murmurer#1
+nager#10
+osciller#1
+pâlir#2
+papoter#1
+patienter#1
+pavoiser#1
+pester#1
+picoler#1
+pinailler#1
+pivoter#1
+polémiquer#1
+postillonner#1
+proliférer#11
+radoter#1
+ralentir#2
+ramer#1
+bondir#2
+rebondir#2
+remuer#1
+resplendir#2
+ressusciter#1
+resurgir#2
+ricaner#1
+rigoler#1
+riposter#1
+rôder#1
+ronfler#1
+ronronner#1
+roucouler#1
+roupiller#1
+saliver#1
+sangloter#1
+siffler#1
+siffloter#1
+somnoler#1
+spéculer#1
+s'installer#1
+suffoquer#1
+sursauter#1
+temporiser#1
+trépigner#1
+tricher#1
+tricoter#1
+trimer#1
+valser#1
+végéter#11
+se réveiller#1
+vociférer#11
+rugir#2
+maugréer#1
+saigner#1
+réussir#2
+douter#1
+accoucher#1
+s'alimenter#1
+balbutier#1
+évoluer#1
+verdir#2
+léviter#1
+s'accrocher#1
+se rapprocher#1
+écrire#18
+se désaltérer#11
+mener#12
+diminuer#1
+se tortiller#1
+se planter#1
+tourner#1
+s'inscrire#18
+clignoter#1
+se désinscrire#18
+tournoyer#15
+se noyer#15
+guerroyer#15
+aboyer#15
+festoyer#15
+flamboyer#15
+se fourvoyer#15
+bégayer#15
+embrayer#15
+débrayer#15
+pagayer#15
+divorcer#9
+grimacer#9
+s'étendre#4
+se goinfrer#1
+s'empiffrer#1
+s'étioler#1
+sombrer#1
+tintinnabuler#1
