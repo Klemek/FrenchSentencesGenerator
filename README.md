@@ -4,6 +4,17 @@ A Java port of Romain Valeri's [generator](http://romainvaleri.online.fr/) from 
 
 Current version v1.0
 
+Examples :
+
+```
+En ville, un artisan dispensé de sport part.
+Yasser Arafat admet bloquer sur un cheval...
+Je parviendrai à me masser au pôle nord.
+Elles tablent sur des inspirations.
+Un penseur végétera-t-il pour la science ?
+Le gondolier table sur la direction à Disneyland.
+```
+
 How to use :
 ```Java
 SentenceGenerator gen = new SentenceGenerator();
