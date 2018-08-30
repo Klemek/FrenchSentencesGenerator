@@ -4,6 +4,17 @@ A Java port of Romain Valeri's [generator](http://romainvaleri.online.fr/) from 
 
 Current version v1.0
 
+Examples :
+
+```
+En ville, un artisan dispensé de sport part.
+Yasser Arafat admet bloquer sur un cheval...
+Je parviendrai à me masser au pôle nord.
+Elles tablent sur des inspirations.
+Un penseur végétera-t-il pour la science ?
+Le gondolier table sur la direction à Disneyland.
+```
+
 How to use :
 ```Java
 SentenceGenerator gen = new SentenceGenerator();
@@ -29,19 +40,19 @@ gen.generate();
 You can use this project as a maven dependency with this :
 ```XML
 <repositories>
-...
-	<repository>
-         <id>fr.klemek</id>
-         <url>https://github.com/klemek/mvn-repo/raw/master</url>
-     </repository>
+    ...
+    <repository>
+        <id>fr.klemek</id>
+        <url>https://github.com/klemek/mvn-repo/raw/master</url>
+    </repository>
 </repositories>
 ...
 <dependencies>
-...
-	<dependency>
-		<groupId>fr.klemek</groupId>
-		<artifactId>french-sentences-gen</artifactId>
-		<version>1.0</version>
-	</dependency>
+    ...
+    <dependency>
+        <groupId>fr.klemek</groupId>
+        <artifactId>french-sentences-gen</artifactId>
+        <version>1.0</version>
+    </dependency>
 </dependencies>
 ```
