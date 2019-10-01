@@ -1,7 +1,8 @@
+[![Scc Count Badge](https://sloc.xyz/github/klemek/frenchsentencesgenerator/?category=code)](https://github.com/boyter/scc/#badges-beta)
 [![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/Klemek/FrenchSentencesGenerator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Klemek/FrenchSentencesGenerator/context:java)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/Klemek/FrenchSentencesGenerator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Klemek/FrenchSentencesGenerator/alerts/)
 
-#French Sentences Generator (by Klemek)
+# French Sentences Generator (by Klemek)
 
 A Java port of Romain Valeri's [generator](http://romainvaleri.online.fr/) from Javascript;
 
